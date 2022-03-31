@@ -1,7 +1,7 @@
-<div style="text-align:center">
+
 👋 Hi, I’m @hykii<br><br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hykii&hide_border=true&custom_title=Most%20Used%20Languages&theme=dracula&bg_color=161b22)
-</div>
+
 
 <!---
 hykii/hykii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
