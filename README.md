@@ -1,5 +1,5 @@
 👋 Hi, I’m @hykii<br><br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hykii&hide_border=true&custom_title=Languages&theme=dracula&bg_color=16202a)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hykii&hide_border=true&custom_title=Most%20Used%20Languages&theme=dracula&bg_color=16202a)
 
 
 <!---
